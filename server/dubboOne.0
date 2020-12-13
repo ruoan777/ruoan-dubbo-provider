@@ -1,0 +1,3 @@
+[2020-12-11 20:59:14.095] - 83422 警告 [main] --- org.apache.catalina.core.StandardContext: A context path must either be an empty string or start with a '/' and do not end with a '/'. The path [/] does not meet these criteria and has been changed to []
+[2020-12-11 20:59:14.209] - 83422 信息 [main] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2020-12-11 20:59:14.209] - 83422 信息 [main] --- org.apache.catalina.core.StandardEngine: Starting Servlet Engine: Apache Tomcat/8.5.34
